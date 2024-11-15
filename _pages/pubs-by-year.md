@@ -13,7 +13,11 @@ Please contact me for copies of papers not accessible to you.
 
 1. I don’t know if projection is categorical. Did Mandelkern et al. 2020 discover that it is? Judith Degen and <b> Judith Tonhauser</b>. Under review. [manuscript](https://ling.auf.net/lingbuzz/007770)
 
-2. Projection inferences: On the relation between prior beliefs, at-issueness, and lexical meaning. Judith Degen and <b> Judith Tonhauser</b>. In preparation.
+2. Projection inferences: On the relation between prior beliefs, at-issueness, and lexical meaning. Judith Degen and <b> Judith Tonhauser</b>. Under revision.
+
+### 2025
+
+1. Projection without presupposition: A model for <i>know</i>. Gregory Scontras and <b> Judith Tonhauser</b>. <i>Sinn und Bedeutung</i> 29. 
 
 ### 2024
 
