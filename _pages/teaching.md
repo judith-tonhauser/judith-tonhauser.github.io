@@ -20,6 +20,8 @@ For course descriptions, please see our [KVV](https://www.ling.uni-stuttgart.de/
 * Linguistic Competence (M.Ed. only): Semantics (every term)
 * Research colloquium in syntax, semantics and pragmatics (every term, joint with Prof. Dr. Daniel Hole)
 
+I am honored to have been nominated for the Lehrepreis of the University of Stuttgart in 2020 and 2024.
+
 ### Bachelor and Master theses
 
 I advise theses on topics in semantics, pragmatics, psycholinguistics, prosody and on social meaning. To write a thesis with me, you should ideally have taken at least one course with me so that your thesis can build on the course content. 
