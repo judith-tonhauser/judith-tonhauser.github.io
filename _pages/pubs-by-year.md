@@ -14,7 +14,7 @@ Please contact me for copies of papers not accessible to you.
 1. Predicting projection variability. Gregory Scontras and <b> Judith Tonhauser</b>. 
 
 1. I don’t know if naturalness ratings distinguish presuppositions from nonpresuppositions.
-Did Mandelkern et al. 2020 discover that they do? Judith Degen and <b> Judith Tonhauser</b>. Under review. [manuscript](https://ling.auf.net/lingbuzz/007770)
+Did Mandelkern et al. 2020 discover that they do? Judith Degen and <b> Judith Tonhauser</b>. Under review.
 
 2. Projection inferences: On the relation between prior beliefs, at-issueness, and lexical meaning. Judith Degen and <b> Judith Tonhauser</b>. Accepted for publication in [Glossa Psycholinguistics](https://escholarship.org/uc/glossapsycholinguistics).
 
