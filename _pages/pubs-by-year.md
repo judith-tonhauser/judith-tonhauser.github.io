@@ -20,7 +20,7 @@ Did Mandelkern et al. 2020 discover that they do? Judith Degen and <b> Judith To
 ### 2025
 
 1. Projection inferences: On the relation between prior beliefs, at-issueness, and lexical meaning. Judith Degen and <b> Judith Tonhauser</b>. [Glossa Psycholinguistics](https://escholarship.org/uc/glossapsycholinguistics), 4(1):19, pp. 1-34. 
-[DOI](https://doi.org/10.5070/G601120798)
+[DOI](https://doi.org/10.5070/G6011.20798)
 
 1. Projection without lexically-specified presupposition: A model for <i>know</i>. Gregory Scontras and <b> Judith Tonhauser</b>. <i>Sinn und Bedeutung</i> 29. 
 
