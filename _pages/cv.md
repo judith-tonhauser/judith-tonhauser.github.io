@@ -12,6 +12,7 @@ Please contact me for a full CV.
 
 ## Academic positions
 
+* since 2024: Vice-Rector for Early Career Researchers and Diversity, University of Stuttgart
 * since 2020: Professor, Department of English Linguistics, University of Stuttgart
 * 2019-2020: Professor, Department of Linguistics, The Ohio State University
 * 2018-2020: Visiting Professor, Department of English Linguistics, University of Stuttgart
