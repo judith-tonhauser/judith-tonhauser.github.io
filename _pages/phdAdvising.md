@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "PhD advising"
-permalink: /cv/
+permalink: /phdAdvising/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
