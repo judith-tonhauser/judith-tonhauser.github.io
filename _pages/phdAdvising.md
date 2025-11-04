@@ -24,6 +24,7 @@ author_profile: true
 * Go abroad
 * Project work vs. thesis work (how much time to spend on the thesis?)
 * Colloquium presentations
+* Advising
 
 ## Your dissertation
 * chapters: E.g., 5 chapters: intro, 3 x meat, conclusion / intro, lit review, 2 meat, conclusion)
