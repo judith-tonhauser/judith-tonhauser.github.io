@@ -15,6 +15,6 @@ My research interests lie in the area of natural language meaning, including bot
 Current research funding:
 * Reasoning-based analyses of presuppositions: [Deutsche Forschungsgemeinschaft (project number 566780232)](https://gepris.dfg.de/gepris/projekt/566780232)
 * Gestural content in the taxonomy of not-at-issue content: [Deutsche Forschungsgemeinschaft (project number 566780232)](https://gepris.dfg.de/gepris/projekt/568636845?language=en)
-* Authority Presuppositions in Human-AI Communication (lead PI: [Agnieszka Faleńska](https://www.ims.uni-stuttgart.de/en/institute/team/Falenska/)): [Human-Intelligent Systems Interaction and Teaming” (IRIS-HISIT)](https://www.iris.uni-stuttgart.de/research/human-intelligent-systems-interaction-and-teaming/)
+* Authority Presuppositions in Human-AI Communication (lead PI [Agnieszka Faleńska](https://www.ims.uni-stuttgart.de/en/institute/team/Falenska/)): [Human-Intelligent Systems Interaction and Teaming” (IRIS-HISIT)](https://www.iris.uni-stuttgart.de/research/human-intelligent-systems-interaction-and-teaming/)
 
 At the University of Stuttgart, I teach [courses](https://judith-tonhauser.github.io/teaching/) related to my research interests: introductions to semantics/pragmatics, sociolinguistics and psycholinguistics, as well as advanced courses in semantics and pragmatics and on social meaning. I also [advise theses](https://judith-tonhauser.github.io/teaching/) in these areas. Information about my office hours can be found on my [department webpage](https://www.ling.uni-stuttgart.de/institut/team/Tonhauser/).
