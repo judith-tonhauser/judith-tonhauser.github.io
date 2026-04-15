@@ -9,12 +9,12 @@ redirect_from:
 
 Please contact me for copies of papers not accessible to you.
 
-### In the pipeline
+### To appear
 
-1. Predicting within-utterance projection variation. Gregory Scontras and <b> Judith Tonhauser</b>. Under review.
+1. Predicting within-utterance projection variation. Gregory Scontras and <b> Judith Tonhauser</b>. To appear in <i>Meaning</i>.
 
 1. I don’t know if naturalness ratings distinguish presuppositions from nonpresuppositions.
-Did Mandelkern et al. 2020 discover that they do? Judith Degen and <b> Judith Tonhauser</b>. Under review.
+Did Mandelkern et al. 2020 discover that they do? <b> Judith Tonhauser</b> and Judith Degen. To appear in <i>Linguistics & Philosophy</i>.
 
 
 ### 2025
