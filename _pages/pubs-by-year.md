@@ -9,6 +9,10 @@ redirect_from:
 
 Please contact me for copies of papers not accessible to you.
 
+### In the pipeline
+
+1. Predicting projection variation. Gregory Scontras, Robert Hawkins and <b> Judith Tonhauser</b>. To appear in the Proceedings of <i>Semantics and Linguistic Theory</i> (SALT) 36.
+
 ### To appear
 
 1. Predicting within-utterance projection variation. Gregory Scontras and <b> Judith Tonhauser</b>. To appear in <i>Meaning</i>.
